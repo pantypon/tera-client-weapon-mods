@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Sorcerer-Gloomy-Bear-Patches",
+	"category": "client",
+	"description": "Turns stitched Mr Patches into a smooth and pink Gloomy Bear for Sorcerer Mister Patches weapon skin",
+	"author": "Panty",
+	"options": {
+		"guiName": "Weapon: Sorcerer Gloomy Bear Patches",
+		"niceName": "Sorcerer Gloomy Bear Patches"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/"
+	]
+}

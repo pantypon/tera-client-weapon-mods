@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Mystic-Strawberry-Nuthatch",
+	"category": "client",
+	"description": "On Mystic nuthatch weapon skin, turns the ugly acorn into an ugly strawberry",
+	"author": "Panty",
+	"options": {
+		"guiName": "Weapon: Mystic Strawberry Nuthatch",
+		"niceName": "Mystic Strawberry Nuthatch"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Strawberry%20Nuthatch/"
+	]
+}

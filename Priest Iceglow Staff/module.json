@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Priest-Iceglow-Staff",
+	"category": "client",
+	"description": "Removes gray rocks on Icegrip(Rare) weapon skin and brightens the blues",
+	"author": "Panty",
+	"options": {
+		"guiName": "Weapon: Priest Iceglow Staff",
+		"niceName": "Priest Iceglow Staff"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Priest%20Iceglow%20Staff/"
+	]
+}

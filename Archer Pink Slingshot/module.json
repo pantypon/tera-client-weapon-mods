@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Archer-Pink-Slingshot",
+	"category": "client",
+	"description": "This mod makes the pink and blue Archer slingshot all pink instead",
+	"author": "Panty",
+	"options": {
+		"guiName": "Weapon: Archer Pink Slingshot",
+		"niceName": "Archer Pink Slingshot"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Archer%20Pink%20Slingshot/"
+	]
+}
