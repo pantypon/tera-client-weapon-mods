@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Ninja-Pink-Prop-Fan",
+	"category": "client",
+	"description": "Makes the ninja wacky weapon skin pink",
+	"author": "Panty",
+	"options": {
+		"guiName": "Weapon: Ninja Pink Prop Fan",
+		"niceName": "Ninja Pink Prop Fan"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Ninja%20Pink%20Prop%20Fan/"
+	]
+}
